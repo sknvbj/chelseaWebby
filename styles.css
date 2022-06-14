@@ -1,0 +1,23 @@
+* {
+    background-color: blue;
+}
+h1 {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+section p {
+    color: white;
+}
+#table tr{
+    color:white;
+    
+}
+
+img {
+    height: 300px;
+    width: 500px;
+
+}
